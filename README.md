@@ -115,23 +115,10 @@ We summarize core demographic information for the EEG cohort, including:
 
 These analyses are demonstrated in:
 
-👉 **`statistics.ipynb`**
-
-### 3.2 Label Distribution Statistics
-
-We compute the distribution of key EEG labels extracted from clinical reports.  
+👉 **`HEEDB_patient_statistics.ipynb`**
 
 
-
-We compute the distribution of medication extracted from clinical notes.  
-
-This helps assess class balance, prevalence of clinically important patterns, and the diversity of EEG phenomena in the dataset.
-
-All label distribution analyses are demonstrated in:
-
-👉 **`medication_statistics.ipynb`**
-
-### 3.3 ICD Distribution Statistics
+### 3.2 ICD Distribution Statistics
 
 We compute the distribution of ICD extracted from clinical notes.  
 
@@ -145,10 +132,10 @@ The extracted patient-level ICD codes, as well as the summary files, are in:
 
 All label distribution analyses are demonstrated in:
 
-👉 **`ICD_statistics.ipynb`** 
+👉 **`HEEDB_patient_statistics.ipynb`** 
 
 
-### 3.4 Medication Distribution Statistics
+### 3.3 Medication Distribution Statistics
 
 We compute the distribution of medication extracted from clinical notes.  
 
@@ -163,8 +150,22 @@ The extracted patient-level medicateion codes, as well as the summary files, are
 
 All label distribution analyses are demonstrated in:
 
-👉 **`medication_statistics.ipynb`** 
+👉 **`HEEDB_patient_statistics.ipynb`** 
 
+
+### 3.4 Label Distribution Statistics
+
+We compute the distribution of key EEG labels extracted from clinical reports.  
+
+
+
+We compute the distribution of medication extracted from clinical notes.  
+
+This helps assess class balance, prevalence of clinically important patterns, and the diversity of EEG phenomena in the dataset.
+
+All label distribution analyses are demonstrated in:
+
+👉 **`label_statistics.ipynb`**
 
 ## 4. Citation
 
