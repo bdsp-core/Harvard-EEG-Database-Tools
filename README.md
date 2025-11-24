@@ -26,9 +26,11 @@ MNE is a Python toolkit for EEG/MEG analysis. In this project, we mainly use it 
 - Basic visualization (raw traces, PSD, etc.)
 
 Official documentation:  
+
 👉 https://mne.tools/stable/index.html
 
 The repository includes an example for reading edf file using MNE:
+
 👉  **`read_data.ipynb`**
 
 ## 2. Extracting Labels from Clinical EEG Reports
@@ -123,3 +125,11 @@ This helps assess class balance, prevalence of clinically important patterns, an
 All label distribution analyses are demonstrated in:
 
 👉 **`label_statistics.ipynb`**
+
+
+
+## 4. Citation
+
+Please cite the HEEDB paper when using these tools or analyses:
+
+Sun C., Jing J., Turley N., Alcott C., Kang W.-Y., Cole A. J., Goldenholz D. M., Lam A., Amorim E., Chu C., Cash S., Moura Junior V., Gupta A., Ghanta M., Nearing B., Nascimento F. A., Struck A., Kim J., Sartipi S., Tauton A.-M., Fernandes M., Sun H., Bayas G., Gallagher K., Wagenaar J. B., Sinha N., Lee-Messer C., Tsien Silvers C., Gunapati B., Rosand J., Peters J., Loddenkemper T., Lee J. W., Zafar S., Westover M. B. Harvard Electroencephalography Database: A comprehensive clinical electroencephalographic resource from four Boston hospitals. Epilepsia. First published June 4, 2025. https://doi.org/10.1111/epi.18487
