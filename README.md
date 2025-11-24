@@ -115,7 +115,7 @@ We summarize core demographic information for the EEG cohort, including:
 
 These analyses are demonstrated in:
 
-👉 **`HEEDB_patient_statistics.ipynb`**
+👉 **`HEEDB_statistics.ipynb`**
 
 
 ### 3.2 ICD Distribution Statistics
@@ -132,7 +132,7 @@ The extracted patient-level ICD codes, as well as the summary files, are in:
 
 All label distribution analyses are demonstrated in:
 
-👉 **`HEEDB_patient_statistics.ipynb`** 
+👉 **`HEEDB_statistics.ipynb`** 
 
 
 ### 3.3 Medication Distribution Statistics
@@ -150,7 +150,7 @@ The extracted patient-level medicateion codes, as well as the summary files, are
 
 All label distribution analyses are demonstrated in:
 
-👉 **`HEEDB_patient_statistics.ipynb`** 
+👉 **`HEEDB_statistics.ipynb`** 
 
 
 ### 3.4 Label Distribution Statistics
@@ -165,7 +165,7 @@ This helps assess class balance, prevalence of clinically important patterns, an
 
 All label distribution analyses are demonstrated in:
 
-👉 **`HEEDB_label_statistics.ipynb`**
+👉 **`HEEDB_statistics.ipynb`**
 
 ## 4. Citation
 
