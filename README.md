@@ -28,6 +28,8 @@ MNE is a Python toolkit for EEG/MEG analysis. In this project, we mainly use it 
 Official documentation:  
 👉 https://mne.tools/stable/index.html
 
+The repository includes an example for reading edf file using MNE:
+👉  **`read_data.ipynb`**
 
 ## 2. Extracting Labels from Clinical EEG Reports
 
@@ -79,4 +81,45 @@ This script contains:
 - Asking structured yes/no questions  
 - Parsing LLM answers  
 - Attaching labels to the corresponding EDF recording  
-- A full example for extracting seizure labels  
+- A full example for extracting seizure labels
+
+### 2.4 Output: EEG Labels Extracted from Reports
+
+All extracted EEG-level labels (e.g., seizure, spikes, burst suppression, slowing, epileptiform activity) have been aggregated and saved into:
+
+👉 **`MGB_EEG_with_reports.csv`** **`BWH_EEG_with_reports.csv`** **`BCH_EEG_with_reports.csv`** **`BIDMC_EEG_with_reports.csv`**
+
+This CSV serves as the main entry point for downstream modeling and statistical analysis.
+
+
+## 3. Dataset Statistics
+
+After extracting labels and metadata, we compute several descriptive statistics for the HEEDB dataset. These statistics help us understand population characteristics, label distributions, and overall dataset composition.
+
+We provide ready-to-run notebooks for reproducing all results.
+
+---
+
+### 3.1 Demographic Statistics
+
+We summarize core demographic information for the EEG cohort, including:
+
+- **Number of unique patients**
+- **Number of unique EEG**
+- **Age distribution**
+- **Sex distribution**
+- **Race distribution**
+
+
+These analyses are demonstrated in:
+
+👉 **`statistics.ipynb`**
+
+### 3.2 Label Distribution Statistics
+
+We compute the distribution of key EEG labels extracted from clinical reports.  
+This helps assess class balance, prevalence of clinically important patterns, and the diversity of EEG phenomena in the dataset.
+
+All label distribution analyses are demonstrated in:
+
+👉 **`label_statistics.ipynb`**
