@@ -165,7 +165,7 @@ This helps assess class balance, prevalence of clinically important patterns, an
 
 All label distribution analyses are demonstrated in:
 
-👉 **`label_statistics.ipynb`**
+👉 **`HEEDB_label_statistics.ipynb`**
 
 ## 4. Citation
 
