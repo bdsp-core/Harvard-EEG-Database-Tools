@@ -1,0 +1,1058 @@
+{
+    "categories": [
+        {
+            "name": "Behavioral/Cognitive Syndromes",
+            "conditions": [
+                {
+                    "code": "F04",
+                    "description": "Amnestic Disorder Due To Known Physiological Condition"
+                },
+                {
+                    "code": "F09",
+                    "description": "Unspecified Mental Disorder Due To Known Physiological Condition"
+                },
+                {
+                    "code": "F90.9",
+                    "description": "Attention-Deficit Hyperactivity Disorder, Unspecified Type"
+                },
+                {
+                    "code": "F91.9",
+                    "description": "Conduct Disorder, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Cerebral Degeneration",
+            "conditions": [
+                {
+                    "code": "F03.90",
+                    "description": "Unspecified Dementia Without Behavioral Disturbance"
+                },
+                {
+                    "code": "G30.9",
+                    "description": "Alzheimer's Disease, Unspecified"
+                },
+                {
+                    "code": "G31.01",
+                    "description": "Pick's Disease"
+                },
+                {
+                    "code": "G31.09",
+                    "description": "Other Frontotemporal Dementia"
+                },
+                {
+                    "code": "G93.7",
+                    "description": "Reye's Syndrome"
+                },
+                {
+                    "code": "R41.0",
+                    "description": "Disorientation, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Cerebral Lobe Dysfunction",
+            "conditions": [
+                {
+                    "code": "R41.3",
+                    "description": "Other Amnesia"
+                },
+                {
+                    "code": "R47.01",
+                    "description": "Aphasia"
+                },
+                {
+                    "code": "R48.1",
+                    "description": "Agnosia"
+                },
+                {
+                    "code": "R48.2",
+                    "description": "Apraxia"
+                }
+            ]
+        },
+        {
+            "name": "Cerebrovascular Diseases",
+            "conditions": [
+                {
+                    "code": "G45.9",
+                    "description": "Transient Cerebral Ischemic Attack, Unspecified"
+                },
+                {
+                    "code": "I63.9",
+                    "description": "Cerebral Infarction, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Cranial Nerve Disorders",
+            "conditions": [
+                {
+                    "code": "G52.9",
+                    "description": "Cranial Nerve Disorder, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Developmental Delay",
+            "conditions": [
+                {
+                    "code": "E72.00",
+                    "description": "Disorders Of Amino-Acid Transport, Unspecified"
+                },
+                {
+                    "code": "E72.01",
+                    "description": "Cystinuria"
+                },
+                {
+                    "code": "E72.09",
+                    "description": "Other Disorders Of Amino-Acid Transport"
+                },
+                {
+                    "code": "F70",
+                    "description": "Mild Intellectual Disabilities"
+                },
+                {
+                    "code": "F71",
+                    "description": "Moderate Intellectual Disabilities"
+                },
+                {
+                    "code": "F72",
+                    "description": "Severe Intellectual Disabilities"
+                },
+                {
+                    "code": "F73",
+                    "description": "Profound Intellectual Disabilities"
+                },
+                {
+                    "code": "F79",
+                    "description": "Unspecified Intellectual Disabilities"
+                },
+                {
+                    "code": "F84.0",
+                    "description": "Autistic Disorder"
+                },
+                {
+                    "code": "F84.3",
+                    "description": "Other Childhood Disintegrative Disorder"
+                },
+                {
+                    "code": "F84.5",
+                    "description": "Asperger's Syndrome"
+                },
+                {
+                    "code": "F84.8",
+                    "description": "Other Pervasive Developmental Disorders"
+                },
+                {
+                    "code": "Q87.89",
+                    "description": "Other Specified Congenital Malformation Syndromes, Not Elsewhere Classified"
+                },
+                {
+                    "code": "Q89.7",
+                    "description": "Multiple Congenital Malformations, Not Elsewhere Classified"
+                },
+                {
+                    "code": "Q89.8",
+                    "description": "Other Specified Congenital Malformations"
+                },
+                {
+                    "code": "Q89.9",
+                    "description": "Congenital Malformation, Unspecified"
+                },
+                {
+                    "code": "Q99.2",
+                    "description": "Fragile X Chromosome"
+                },
+                {
+                    "code": "R62.0",
+                    "description": "Delayed Milestone In Childhood"
+                }
+            ]
+        },
+        {
+            "name": "Genetic Disorders",
+            "conditions": [
+                {
+                    "code": "E70.0",
+                    "description": "Classical Phenylketonuria"
+                },
+                {
+                    "code": "E70.1",
+                    "description": "Other Hyperphenylalaninemias"
+                },
+                {
+                    "code": "E72.04",
+                    "description": "Cystinosis"
+                },
+                {
+                    "code": "E75.02",
+                    "description": "Tay-Sachs Disease"
+                },
+                {
+                    "code": "E75.249",
+                    "description": "Niemann-Pick Disease, Unspecified"
+                },
+                {
+                    "code": "E75.29",
+                    "description": "Other Sphingolipidosis"
+                },
+                {
+                    "code": "E76.29",
+                    "description": "Other Mucopolysaccharidoses"
+                },
+                {
+                    "code": "E76.3",
+                    "description": "Mucopolysaccharidosis, Unspecified"
+                },
+                {
+                    "code": "E83.01",
+                    "description": "Wilson's Disease"
+                }
+            ]
+        },
+        {
+            "name": "Headache Disorders",
+            "conditions": [
+                {
+                    "code": "G43.001",
+                    "description": "Migraine Without Aura, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.009",
+                    "description": "Migraine Without Aura, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.011",
+                    "description": "Migraine Without Aura, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.019",
+                    "description": "Migraine Without Aura, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.101",
+                    "description": "Migraine With Aura, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.109",
+                    "description": "Migraine With Aura, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.111",
+                    "description": "Migraine With Aura, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.119",
+                    "description": "Migraine With Aura, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.401",
+                    "description": "Hemiplegic Migraine, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.409",
+                    "description": "Hemiplegic Migraine, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.411",
+                    "description": "Hemiplegic Migraine, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.419",
+                    "description": "Hemiplegic Migraine, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.501",
+                    "description": "Persistent Migraine Aura Without Cerebral Infarction, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.509",
+                    "description": "Persistent Migraine Aura Without Cerebral Infarction, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.511",
+                    "description": "Persistent Migraine Aura Without Cerebral Infarction, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.519",
+                    "description": "Persistent Migraine Aura Without Cerebral Infarction, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.601",
+                    "description": "Persistent Migraine Aura With Cerebral Infarction, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.609",
+                    "description": "Persistent Migraine Aura With Cerebral Infarction, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.611",
+                    "description": "Persistent Migraine Aura With Cerebral Infarction, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.619",
+                    "description": "Persistent Migraine Aura With Cerebral Infarction, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.701",
+                    "description": "Chronic Migraine Without Aura, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.709",
+                    "description": "Chronic Migraine Without Aura, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.711",
+                    "description": "Chronic Migraine Without Aura, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.719",
+                    "description": "Chronic Migraine Without Aura, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.809",
+                    "description": "Other Migraine, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.821",
+                    "description": "Menstrual Migraine, Not Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.829",
+                    "description": "Menstrual Migraine, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.831",
+                    "description": "Menstrual Migraine, Intractable, With Status Migrainosus"
+                },
+                {
+                    "code": "G43.839",
+                    "description": "Menstrual Migraine, Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.909",
+                    "description": "Migraine, Unspecified, Not Intractable, Without Status Migrainosus"
+                },
+                {
+                    "code": "G43.A0",
+                    "description": "Cyclical Vomiting, Not Intractable"
+                },
+                {
+                    "code": "G43.A1",
+                    "description": "Cyclical Vomiting, Intractable"
+                },
+                {
+                    "code": "G43.B0",
+                    "description": "Ophthalmoplegic Migraine, Not Intractable"
+                },
+                {
+                    "code": "G43.B1",
+                    "description": "Ophthalmoplegic Migraine, Intractable"
+                },
+                {
+                    "code": "G43.C1",
+                    "description": "Periodic Headache Syndromes In Child Or Adult, Intractable"
+                },
+                {
+                    "code": "G43.D0",
+                    "description": "Abdominal Migraine, Not Intractable"
+                },
+                {
+                    "code": "G43.D1",
+                    "description": "Abdominal Migraine, Intractable"
+                },
+                {
+                    "code": "G44.009",
+                    "description": "Cluster Headache Syndrome, Unspecified, Not Intractable"
+                },
+                {
+                    "code": "G44.1",
+                    "description": "Vascular Headache, Not Elsewhere Classified"
+                },
+                {
+                    "code": "G44.209",
+                    "description": "Tension-Type Headache, Unspecified, Not Intractable"
+                },
+                {
+                    "code": "G93.2",
+                    "description": "Benign Intracranial Hypertension"
+                },
+                {
+                    "code": "R47.02",
+                    "description": "Dysphasia"
+                },
+                {
+                    "code": "R49.9",
+                    "description": "Unspecified Voice And Resonance Disorder"
+                },
+                {
+                    "code": "R51",
+                    "description": "Headache"
+                }
+            ]
+        },
+        {
+            "name": "Infections",
+            "conditions": [
+                {
+                    "code": "G03.9",
+                    "description": "Meningitis, Unspecified"
+                },
+                {
+                    "code": "G04.90",
+                    "description": "Encephalitis And Encephalomyelitis, Unspecified"
+                },
+                {
+                    "code": "G04.91",
+                    "description": "Myelitis, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Intracranial And Spinal Tumors",
+            "conditions": [
+                {
+                    "code": "C71.6",
+                    "description": "Malignant Neoplasm Of Cerebellum"
+                },
+                {
+                    "code": "C71.9",
+                    "description": "Malignant Neoplasm Of Brain, Unspecified"
+                },
+                {
+                    "code": "C72.0",
+                    "description": "Malignant Neoplasm Of Spinal Cord"
+                },
+                {
+                    "code": "C75.1",
+                    "description": "Malignant Neoplasm Of Pituitary Gland"
+                },
+                {
+                    "code": "D32.9",
+                    "description": "Benign Neoplasm Of Meninges, Unspecified"
+                },
+                {
+                    "code": "D49.6",
+                    "description": "Neoplasm Of Unspecified Behavior Of Brain"
+                },
+                {
+                    "code": "Q85.00",
+                    "description": "Neurofibromatosis, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Motor Neuron Diseases",
+            "conditions": [
+                {
+                    "code": "G12.21",
+                    "description": "Amyotrophic Lateral Sclerosis"
+                },
+                {
+                    "code": "G12.29",
+                    "description": "Other Motor Neuron Disease"
+                }
+            ]
+        },
+        {
+            "name": "Movement And Cerebellar Disorders",
+            "conditions": [
+                {
+                    "code": "F95.2",
+                    "description": "Tourette's Disorder"
+                },
+                {
+                    "code": "F95.9",
+                    "description": "Tic Disorder, Unspecified"
+                },
+                {
+                    "code": "G10",
+                    "description": "Huntington's Disease"
+                },
+                {
+                    "code": "G20",
+                    "description": "Parkinson's Disease"
+                },
+                {
+                    "code": "G21.9",
+                    "description": "Secondary Parkinsonism, Unspecified"
+                },
+                {
+                    "code": "G23.1",
+                    "description": "Progressive Supranuclear Ophthalmoplegia [Steele-Richardson-Olszewski]"
+                },
+                {
+                    "code": "G24.02",
+                    "description": "Drug Induced Acute Dystonia"
+                },
+                {
+                    "code": "G24.8",
+                    "description": "Other Dystonia"
+                },
+                {
+                    "code": "G25.0",
+                    "description": "Essential Tremor"
+                },
+                {
+                    "code": "G25.1",
+                    "description": "Drug-Induced Tremor"
+                },
+                {
+                    "code": "G25.2",
+                    "description": "Other Specified Forms Of Tremor"
+                },
+                {
+                    "code": "G25.3",
+                    "description": "Myoclonus"
+                },
+                {
+                    "code": "G25.5",
+                    "description": "Other Chorea"
+                },
+                {
+                    "code": "R25.1",
+                    "description": "Tremor, Unspecified"
+                },
+                {
+                    "code": "R25.2",
+                    "description": "Cramp And Spasm"
+                },
+                {
+                    "code": "R27.0",
+                    "description": "Ataxia"
+                }
+            ]
+        },
+        {
+            "name": "Muscular Dystrophies And Other Myopathies",
+            "conditions": [
+                {
+                    "code": "G71.0",
+                    "description": "Muscular Dystrophy"
+                },
+                {
+                    "code": "G71.11",
+                    "description": "Myotonic Muscular Dystrophy"
+                },
+                {
+                    "code": "G71.12",
+                    "description": "Myotonia Congenita"
+                },
+                {
+                    "code": "G71.14",
+                    "description": "Drug Induced Myotonia"
+                },
+                {
+                    "code": "G71.2",
+                    "description": "Congenital Myopathies"
+                },
+                {
+                    "code": "G72.2",
+                    "description": "Myopathy Due To Other Toxic Agents"
+                },
+                {
+                    "code": "G72.3",
+                    "description": "Periodic Paralysis"
+                },
+                {
+                    "code": "G72.41",
+                    "description": "Inclusion Body Myositis [IBM]"
+                },
+                {
+                    "code": "G72.9",
+                    "description": "Myopathy, Unspecified"
+                },
+                {
+                    "code": "G73.7",
+                    "description": "Myopathy In Diseases Classified Elsewhere"
+                }
+            ]
+        },
+        {
+            "name": "Other Neurological Disorders",
+            "conditions": [
+                {
+                    "code": "G0.61",
+                    "description": "Intraspinal Abscess And Granuloma"
+                },
+                {
+                    "code": "G11.1",
+                    "description": "Early-Onset Cerebellar Ataxia"
+                },
+                {
+                    "code": "G11.4",
+                    "description": "Hereditary Spastic Paraplegia"
+                },
+                {
+                    "code": "G35",
+                    "description": "Multiple Sclerosis"
+                },
+                {
+                    "code": "G36.0",
+                    "description": "Neuromyelitis Optica [Devic]"
+                },
+                {
+                    "code": "G80.9",
+                    "description": "Cerebral Palsy, Unspecified"
+                },
+                {
+                    "code": "G81.90",
+                    "description": "Hemiplegia, Unspecified Affecting Unspecified Side"
+                },
+                {
+                    "code": "G95.11",
+                    "description": "Acute Infarction Of Spinal Cord (Embolic) (Nonembolic)"
+                },
+                {
+                    "code": "G95.20",
+                    "description": "Unspecified Cord Compression"
+                },
+                {
+                    "code": "G95.9",
+                    "description": "Disease Of Spinal Cord, Unspecified"
+                },
+                {
+                    "code": "Q05.9",
+                    "description": "Spina Bifida, Unspecified"
+                }
+            ]
+        },
+        {
+            "name": "Peripheral Nervous System Disorders",
+            "conditions": [
+                {
+                    "code": "G12.9",
+                    "description": "Spinal Muscular Atrophy, Unspecified"
+                },
+                {
+                    "code": "G50.0",
+                    "description": "Trigeminal Neuralgia"
+                },
+                {
+                    "code": "G51.0",
+                    "description": "Bell's Palsy"
+                },
+                {
+                    "code": "G51.8",
+                    "description": "Other Disorders Of Facial Nerve"
+                },
+                {
+                    "code": "G60.0",
+                    "description": "Hereditary Motor And Sensory Neuropathy"
+                },
+                {
+                    "code": "G60.1",
+                    "description": "Refsum's Disease"
+                },
+                {
+                    "code": "G60.8",
+                    "description": "Other Hereditary And Idiopathic Neuropathies"
+                },
+                {
+                    "code": "G60.9",
+                    "description": "Hereditary And Idiopathic Neuropathy, Unspecified"
+                },
+                {
+                    "code": "G61.0",
+                    "description": "Guillain-Barre Syndrome"
+                },
+                {
+                    "code": "G70.00",
+                    "description": "Myasthenia Gravis Without (Acute) Exacerbation"
+                },
+                {
+                    "code": "G70.01",
+                    "description": "Myasthenia Gravis With (Acute) Exacerbation"
+                }
+            ]
+        },
+        {
+            "name": "Seizure Disorders",
+            "conditions": [
+                {
+                    "code": "G40.101",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Simple Partial Seizures, Not Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.109",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Simple Partial Seizures, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.111",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Simple Partial Seizures, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.119",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Simple Partial Seizures, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.201",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Complex Partial Seizures, Not Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.209",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Complex Partial Seizures, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.211",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Complex Partial Seizures, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.219",
+                    "description": "Localization-Related (Focal) (Partial) Symptomatic Epilepsy And Epileptic Syndromes With Complex Partial Seizures, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.311",
+                    "description": "Generalized Idiopathic Epilepsy And Epileptic Syndromes, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.319",
+                    "description": "Generalized Idiopathic Epilepsy And Epileptic Syndromes, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.409",
+                    "description": "Other Generalized Epilepsy And Epileptic Syndromes, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.411",
+                    "description": "Other Generalized Epilepsy And Epileptic Syndromes, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.419",
+                    "description": "Other Generalized Epilepsy And Epileptic Syndromes, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.811",
+                    "description": "Lennox-Gastaut Syndrome, Not Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.812",
+                    "description": "Lennox-Gastaut Syndrome, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.813",
+                    "description": "Lennox-Gastaut Syndrome, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.814",
+                    "description": "Lennox-Gastaut Syndrome, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.821",
+                    "description": "Epileptic Spasms, Not Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.822",
+                    "description": "Epileptic Spasms, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.823",
+                    "description": "Epileptic Spasms, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.824",
+                    "description": "Epileptic Spasms, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.909",
+                    "description": "Epilepsy, Unspecified, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.911",
+                    "description": "Epilepsy, Unspecified, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.919",
+                    "description": "Epilepsy, Unspecified, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.A01",
+                    "description": "Absence Epileptic Syndrome, Not Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.A09",
+                    "description": "Absence Epileptic Syndrome, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.A11",
+                    "description": "Absence Epileptic Syndrome, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.A19",
+                    "description": "Absence Epileptic Syndrome, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.B01",
+                    "description": "Juvenile Myoclonic Epilepsy, Not Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.B09",
+                    "description": "Juvenile Myoclonic Epilepsy, Not Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "G40.B11",
+                    "description": "Juvenile Myoclonic Epilepsy, Intractable, With Status Epilepticus"
+                },
+                {
+                    "code": "G40.B19",
+                    "description": "Juvenile Myoclonic Epilepsy, Intractable, Without Status Epilepticus"
+                },
+                {
+                    "code": "P90",
+                    "description": "Convulsions Of Newborn"
+                },
+                {
+                    "code": "R56.00",
+                    "description": "Simple Febrile Convulsions"
+                },
+                {
+                    "code": "R56.01",
+                    "description": "Complex Febrile Convulsions"
+                },
+                {
+                    "code": "R56.1",
+                    "description": "Post Traumatic Seizures"
+                }
+            ]
+        },
+        {
+            "name": "Sleep Disorders",
+            "conditions": [
+                {
+                    "code": "G25.81",
+                    "description": "Restless Legs Syndrome"
+                },
+                {
+                    "code": "G47.00",
+                    "description": "Insomnia, Unspecified"
+                },
+                {
+                    "code": "G47.20",
+                    "description": "Circadian Rhythm Sleep Disorder, Unspecified Type"
+                },
+                {
+                    "code": "G47.30",
+                    "description": "Sleep Apnea, Unspecified"
+                },
+                {
+                    "code": "G47.31",
+                    "description": "Primary Central Sleep Apnea"
+                },
+                {
+                    "code": "G47.33",
+                    "description": "Obstructive Sleep Apnea (Adult) (Pediatric)"
+                },
+                {
+                    "code": "G47.411",
+                    "description": "Narcolepsy With Cataplexy"
+                },
+                {
+                    "code": "G47.419",
+                    "description": "Narcolepsy Without Cataplexy"
+                },
+                {
+                    "code": "G47.50",
+                    "description": "Parasomnia, Unspecified"
+                },
+                {
+                    "code": "G47.61",
+                    "description": "Periodic Limb Movement Disorder"
+                }
+            ]
+        },
+        {
+            "name": "Miscellaneous",
+            "conditions": [
+                {
+                    "code": "D89.89",
+                    "description": "Other Specified Disorders Involving The Immune Mechanism, Not Elsewhere Classified"
+                },
+                {
+                    "code": "E11.42",
+                    "description": "Type 2 Diabetes Mellitus With Diabetic Polyneuropathy"
+                },
+                {
+                    "code": "F32.9",
+                    "description": "Major Depressive Disorder, Single Episode, Unspecified"
+                },
+                {
+                    "code": "G11.8",
+                    "description": "Other Hereditary Ataxias"
+                },
+                {
+                    "code": "G12.29",
+                    "description": "Other Motor Neuron Disease"
+                },
+                {
+                    "code": "G12.8",
+                    "description": "Other Spinal Muscular Atrophies And Related Syndromes"
+                },
+                {
+                    "code": "G25.82",
+                    "description": "Stiff-Man Syndrome"
+                },
+                {
+                    "code": "G25.9",
+                    "description": "Extrapyramidal And Movement Disorder, Unspecified"
+                },
+                {
+                    "code": "G31.84",
+                    "description": "Mild Cognitive Impairment, So Stated"
+                },
+                {
+                    "code": "G31.9",
+                    "description": "Degenerative Disease Of Nervous System, Unspecified"
+                },
+                {
+                    "code": "G37.9",
+                    "description": "Demyelinating Disease Of Central Nervous System, Unspecified"
+                },
+                {
+                    "code": "G56.00",
+                    "description": "Carpal Tunnel Syndrome, Unspecified Upper Limb"
+                },
+                {
+                    "code": "G58.9",
+                    "description": "Mononeuropathy, Unspecified"
+                },
+                {
+                    "code": "G61.81",
+                    "description": "Chronic Inflammatory Demyelinating Polyneuritis"
+                },
+                {
+                    "code": "G62.89",
+                    "description": "Other Specified Polyneuropathies"
+                },
+                {
+                    "code": "G63",
+                    "description": "Polyneuropathy In Diseases Classified Elsewhere"
+                },
+                {
+                    "code": "G70.00",
+                    "description": "Myasthenia Gravis Without (Acute) Exacerbation"
+                },
+                {
+                    "code": "G90.9",
+                    "description": "Disorder Of The Autonomic Nervous System, Unspecified"
+                },
+                {
+                    "code": "G93.40",
+                    "description": "Encephalopathy, Unspecified"
+                },
+                {
+                    "code": "H02.409",
+                    "description": "Unspecified Ptosis Of Unspecified Eyelid"
+                },
+                {
+                    "code": "H46.9",
+                    "description": "Unspecified Optic Neuritis"
+                },
+                {
+                    "code": "H47.20",
+                    "description": "Unspecified Optic Atrophy"
+                },
+                {
+                    "code": "H47.22",
+                    "description": "Hereditary Optic Atrophy"
+                },
+                {
+                    "code": "H53.2",
+                    "description": "Diplopia"
+                },
+                {
+                    "code": "H53.9",
+                    "description": "Unspecified Visual Disturbance"
+                },
+                {
+                    "code": "H81.13",
+                    "description": "Benign Paroxysmal Vertigo, Bilateral"
+                },
+                {
+                    "code": "M54.10",
+                    "description": "Radiculopathy, Site Unspecified"
+                },
+                {
+                    "code": "M54.2",
+                    "description": "Cervicalgia"
+                },
+                {
+                    "code": "M54.5",
+                    "description": "Low Back Pain"
+                },
+                {
+                    "code": "M60.9",
+                    "description": "Myositis, Unspecified"
+                },
+                {
+                    "code": "M62.50",
+                    "description": "Muscle Wasting And Atrophy, Not Elsewhere Classified, Unspecified Site"
+                },
+                {
+                    "code": "M62.81",
+                    "description": "Muscle Weakness (Generalized)"
+                },
+                {
+                    "code": "M62.838",
+                    "description": "Other Muscle Spasm"
+                },
+                {
+                    "code": "M79.1",
+                    "description": "Myalgia"
+                },
+                {
+                    "code": "M79.2",
+                    "description": "Neuralgia And Neuritis, Unspecified"
+                },
+                {
+                    "code": "M79.609",
+                    "description": "Pain In Unspecified Limb"
+                },
+                {
+                    "code": "R13.10",
+                    "description": "Dysphagia, Unspecified"
+                },
+                {
+                    "code": "R25.2",
+                    "description": "Cramp And Spasm"
+                },
+                {
+                    "code": "R26.9",
+                    "description": "Unspecified Abnormalities Of Gait And Mobility"
+                },
+                {
+                    "code": "R29.898",
+                    "description": "Other Symptoms And Signs Involving The Musculoskeletal System"
+                },
+                {
+                    "code": "R41.2",
+                    "description": "Retrograde Amnesia"
+                },
+                {
+                    "code": "R41.89",
+                    "description": "Other Symptoms And Signs Involving Cognitive Functions And Awareness"
+                },
+                {
+                    "code": "R47.1",
+                    "description": "Dysarthria And Anarthria"
+                },
+                {
+                    "code": "R55",
+                    "description": "Syncope And Collapse"
+                },
+                {
+                    "code": "Z51.81",
+                    "description": "Encounter For Therapeutic Drug Level Monitoring"
+                },
+                {
+                    "code": "Z82.69",
+                    "description": "Family History Of Other Diseases Of The Musculoskeletal System And Connective Tissue"
+                },
+                {
+                    "code": "Z84.81",
+                    "description": "Family History Of Carrier Of Genetic Disease"
+                }
+            ]
+        }
+    ]
+}
