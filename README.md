@@ -152,6 +152,15 @@ All label distribution analyses are demonstrated in:
 
 We compute the distribution of medication extracted from clinical notes.  
 
+We ATC medication category, and we have summarized it in the file:
+
+👉 **`ATC_simplify.xlsx`**
+
+The extracted patient-level medicateion codes, as well as the summary files, are in:
+
+👉 **`HEEDB_Medication_ATC.csv`**  **`HEEDB_Medication_ATC_statistics.xlsx`**
+
+
 All label distribution analyses are demonstrated in:
 
 👉 **`medication_statistics.ipynb`** 
