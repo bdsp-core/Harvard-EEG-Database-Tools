@@ -120,12 +120,41 @@ These analyses are demonstrated in:
 ### 3.2 Label Distribution Statistics
 
 We compute the distribution of key EEG labels extracted from clinical reports.  
+
+
+
+We compute the distribution of medication extracted from clinical notes.  
+
 This helps assess class balance, prevalence of clinically important patterns, and the diversity of EEG phenomena in the dataset.
 
 All label distribution analyses are demonstrated in:
 
-👉 **`label_statistics.ipynb`**
+👉 **`medication_statistics.ipynb`**
 
+### 3.3 ICD Distribution Statistics
+
+We compute the distribution of ICD extracted from clinical notes.  
+
+We mainly focus on ICD-10-CM for Neurology, and we have summarized it in the file:
+
+👉 **`ICD-10-CM_for_Neurology.json`**
+
+The extracted patient-level ICD codes, as well as the summary files, are in:
+
+👉 **`HEEDB_ICD10_for_Neurology.xlsx`**  **`HEEDB_ICD10_for_Neurology_statistics.xlsx`**
+
+All label distribution analyses are demonstrated in:
+
+👉 **`ICD_statistics.ipynb`** 
+
+
+### 3.4 Medication Distribution Statistics
+
+We compute the distribution of medication extracted from clinical notes.  
+
+All label distribution analyses are demonstrated in:
+
+👉 **`medication_statistics.ipynb`** 
 
 
 ## 4. Citation
