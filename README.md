@@ -28,3 +28,55 @@ MNE is a Python toolkit for EEG/MEG analysis. In this project, we mainly use it 
 Official documentation:  
 👉 https://mne.tools/stable/index.html
 
+
+## 2. Extracting Labels from Clinical EEG Reports
+
+This project extracts EEG labels (e.g., seizure, spike, burst suppression, epileptiform activity, slowing) directly from the **clinical EEG reports** associated with each EDF file. The process consists of two main steps:
+
+---
+
+### 2.1 Aligning EDF Recording Time With Report Time
+
+Each HEEDB EEG has two relevant timestamps:
+
+- **EDF start time** – stored in the EDF header  
+- **Report timestamp** – stored in the clinical EEG report  
+
+We align these two timestamps so that the clinical findings can be mapped onto the correct EEG files.
+
+---
+
+### 2.2 Extracting Labels Using a Medical LLM (Yes/No Q&A)
+
+We extract EEG-level labels by asking a **medical large language model (Medical-LLaMA)** structured yes/no questions.  
+Each question is phrased explicitly to ensure a deterministic answer.
+
+Example prompts: Dose the patient have any seizure events noted? Answer Yes or No.
+
+These questions are fed to a medical LLM, which returns a YES or NO answer for each label.
+
+🔗 **Medical-LLaMA documentation / example interface**  
+[https://medical-llama.hf.space ](https://huggingface.co/ContactDoctor/Bio-Medical-Llama-3-8B) 
+
+---
+
+### ⚠️ Privacy and IRB Reminder
+
+For real HEEDB data, **always use a local LLM** (e.g., Llama-3-70B-Instruct, MedLlama locally, or an in-hospital model).  
+Never send clinical reports or PHI to online endpoints.
+
+---
+
+### 2.3 Code Example: Extracting Seizure Labels
+
+The repository includes an example script demonstrating the complete workflow:
+
+👉 **`format_reports.py`**, **`process_reports_by_medicalllama.py`**
+
+This script contains:
+
+- Loading raw EEG reports  
+- Asking structured yes/no questions  
+- Parsing LLM answers  
+- Attaching labels to the corresponding EDF recording  
+- A full example for extracting seizure labels  
